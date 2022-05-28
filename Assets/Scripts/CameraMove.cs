@@ -12,7 +12,8 @@ public class CameraMove : MonoBehaviour
      // Update is called once per frame
     void Update()
     {
-        // test comment: made some changes
+        // final test
+        // add second comment
         if(Input.GetKey(KeyCode.X))
         {
         xTranslate = 0f;
